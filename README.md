@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi  I am Sayyid Syafiq Abdul Aziz 👋
 
 - 🔭 I’m currently working on school
