@@ -10,7 +10,7 @@
 - ⚡ Fun fact: spartan
 
 
-[![Sayyid Syafiq github stats](https://github-readme-stats.vercel.app/api?username=sayyidzizii&theme=nord&show_icons=true)](https://github.com/sayyidzizii)
+[![Sayyid Syafiq github stats](https://github-readme-stats.vercel.app/api?username=sayyidazizii&theme=nord&show_icons=true)](https://github.com/sayyidzizii)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
