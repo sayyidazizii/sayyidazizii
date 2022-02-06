@@ -1,7 +1,7 @@
 <div align="center">
-  ##########
+ *************************************
   Hi  I am Sayyid Syafiq Abdul Aziz 👋
-  ##########
+ *************************************
 🔭 I’m currently working on school
 🌱 I’m currently learning html,css,javascript,php
 👯 I’m looking to collaborate on github
