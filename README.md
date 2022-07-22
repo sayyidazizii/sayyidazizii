@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/C%23-blue.svg?style=for-the-badge&logo=CSharp&logoColor=white) 
 ![](https://img.shields.io/badge/Laravel-red.svg?style=for-the-badge&logo=Laravel&logoColor=white) 
 ![](https://img.shields.io/badge/Codeigniter-orange.svg?style=for-the-badge&logo=Codeigniter&logoColor=white) 
-![](https://img.shields.io/badge/Mysql-yellow.svg?style=for-the-badge&logo=Mysql&logoColor=white) 
+![](https://img.shields.io/badge/Mysql-yellow.svg?style=for-the-badge&logo=Mysql&logoColor=black) 
 ![](https://img.shields.io/badge/Postgresql-blue.svg?style=for-the-badge&logo=Postgresql&logoColor=white) 
 ![](https://img.shields.io/badge/SQLserver-red.svg?style=for-the-badge&logo=SQLserver&logoColor=white)
 ![](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=Github&logoColor=white)
