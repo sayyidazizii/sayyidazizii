@@ -8,7 +8,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-7900FF.svg?style=for-the-badge&logo=Bootstrap-css&logoColor=white)
 ![](https://img.shields.io/badge/C%23-blue.svg?style=for-the-badge&logo=CSharp&logoColor=white) 
-  
+![](https://img.shields.io/badge/Laravel-orange.svg?style=for-the-badge&logo=Laravel&logoColor=white) 
 
 You can reach me here:<br><br>
 <a href="mailto:sayyidayafiq234@gmail.com" style="text-decoration: none;">
