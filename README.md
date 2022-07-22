@@ -11,6 +11,8 @@
 ![](https://img.shields.io/badge/Laravel-red.svg?style=for-the-badge&logo=Laravel&logoColor=white) 
 ![](https://img.shields.io/badge/Codeigniter-orange.svg?style=for-the-badge&logo=Codeigniter&logoColor=white) 
 ![](https://img.shields.io/badge/Mysql-yellow.svg?style=for-the-badge&logo=Mysql&logoColor=white) 
+![](https://img.shields.io/badge/Postgresql-blue.svg?style=for-the-badge&logo=Postgresql&logoColor=white) 
+![](https://img.shields.io/badge/SqlSever-red.svg?style=for-the-badge&logo=SqlSever&logoColor=white)
 
 You can reach me here:<br><br>
 <a href="mailto:sayyidayafiq234@gmail.com" style="text-decoration: none;">
