@@ -9,6 +9,8 @@
 ![bootstrap](https://img.shields.io/badge/bootstrap-7900FF.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/C%23-blue.svg?style=for-the-badge&logo=CSharp&logoColor=white) 
 ![](https://img.shields.io/badge/Laravel-red.svg?style=for-the-badge&logo=Laravel&logoColor=white) 
+  
+  
 ![](https://img.shields.io/badge/Codeigniter-orange.svg?style=for-the-badge&logo=Codeigniter&logoColor=white) 
 ![](https://img.shields.io/badge/Mysql-yellow.svg?style=for-the-badge&logo=Mysql&logoColor=black) 
 ![](https://img.shields.io/badge/Postgresql-blue.svg?style=for-the-badge&logo=Postgresql&logoColor=white) 
