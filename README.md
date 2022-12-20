@@ -16,7 +16,6 @@
 ![](https://img.shields.io/badge/Postgresql-blue.svg?style=for-the-badge&logo=Postgresql&logoColor=white) 
 ![](https://img.shields.io/badge/SQLserver-red.svg?style=for-the-badge&logo=SQLserver&logoColor=white)
 ![](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=Github&logoColor=white)
-![](https://img.shields.io/badge/VB.NET-blue.svg?style=for-the-badge&logo=vb&logoColor=white)
 
 
 You can reach me here:<br><br>
