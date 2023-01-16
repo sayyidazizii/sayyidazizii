@@ -1,7 +1,6 @@
 <div align="center">
   Hi  I am Sayyid Syafiq Abdul Aziz 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayyidazizii&theme=bear&show_icons=true&locale=en&layout=compact" alt="sayyidazizii" /></p>
 [![Sayyid Syafiq github stats](https://github-readme-stats.vercel.app/api?username=sayyidazizii&theme=nord&show_icons=true)](https://github.com/sayyidazizii)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
