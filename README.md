@@ -1,10 +1,9 @@
 
 <div align="center">
 <b>Hallo there!!</b> 👋
-  <br>
-<b>I am Sayyid Syafiq Abdul Aziz</b>
 
-[![Sayyid Syafiq github stats](https://github-readme-stats.vercel.app/api?username=sayyidazizii&theme=nord&show_icons=true)](https://github.com/sayyidazizii)
+
+[![Sayyid Aziz github stats](https://github-readme-stats.vercel.app/api?username=sayyidazizii&theme=nord&show_icons=true)](https://github.com/sayyidazizii)
 
 You can reach me here:<br><br>
 <a href="mailto:sayyidayafiq234@gmail.com" style="text-decoration: none;">
