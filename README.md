@@ -1,7 +1,7 @@
 
 <div align="center">
 <b>Hallo there!!</b> 👋
-My name is Daffa Ariftama Hanaris
+I am Sayyid Syafiq Abdul Aziz
 
 [![Sayyid Syafiq github stats](https://github-readme-stats.vercel.app/api?username=sayyidazizii&theme=nord&show_icons=true)](https://github.com/sayyidazizii)
 
