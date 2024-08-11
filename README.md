@@ -1,9 +1,7 @@
 
 <div align="left">
 <b>Hallo there!!</b> 👋
-  <br>
-  <b>php isn't die ,</b>
-  <b>javascript is delicious</b>
+<br>
 <br>
 <br>
 
