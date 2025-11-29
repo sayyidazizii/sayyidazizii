@@ -2,17 +2,15 @@
 <b>Hallo there!!</b> 👋  
 <br><br>
 
-<!-- GitHub Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayyidazizii&theme=nord_dark" alt="Summary"/>
+<!-- GitHub Profile Summary Cards (Dark Gray Theme) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayyidazizii&theme=github_dark" width="700" alt="Summary"/>
 
-<!-- GitHub Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayyidazizii&theme=nord_dark" alt="Stats"/>
+<!-- Stats + Most Languages side-by-side -->
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayyidazizii&theme=github_dark" width="345" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayyidazizii&theme=github_dark" width="345" alt="Most Languages"/>
+</div>
 
-<!-- Most Commit Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayyidazizii&theme=nord_dark" alt="Most Languages"/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayyidazizii&theme=nord" alt="Streak Stats"/>
 <br><br>
 
 ### 🤝🏻 Connect with Me!
