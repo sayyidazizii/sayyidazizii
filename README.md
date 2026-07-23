@@ -3,13 +3,13 @@
 <br><br>
 
 <!-- GitHub Profile Summary Cards (Dark Gray Theme) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayyidazizii&theme=github_dark" width="700" alt="Summary"/>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayyidazizii&theme=github_dark" width="700" alt="Summary"/> -->
 
 <!-- Stats + Most Languages side-by-side -->
-<div>
+<!-- <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayyidazizii&theme=github_dark" width="345" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayyidazizii&theme=github_dark" width="345" alt="Most Languages"/>
-</div>
+</div> -->
 
 <br><br>
 
